@@ -28,4 +28,5 @@
 # Fontes Consultadas 🔗
  
 # Autores 👥
-- [Naillim Novaski]()
+- [Naillim Novaski](https://github.com/naillimnovaski)
+- [dafila mendes](https://github.com/mendesdafilla/lacos_.git)
